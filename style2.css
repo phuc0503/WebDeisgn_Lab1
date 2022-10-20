@@ -12,6 +12,40 @@ img{
     color: brown;
 }
 
+#NewYork, #Austin, #Sydney{
+    color: red;
+}
+
+#Columbus, #Philly, #Ottawa{
+    color:blue;
+}
+
 h1{
     color: brown;
+}
+
+table, tr, th, td{
+    border: 1px solid;
+    border-color: darkgray;
+}
+
+td{
+    text-align: center;
+}
+
+th, td{
+    height: 30px
+}
+
+table{
+    width: 15%;
+    border-collapse: collapse;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#twitter{
+    
 }
